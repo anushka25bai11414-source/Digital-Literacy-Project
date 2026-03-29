@@ -5,12 +5,12 @@
 -------------------
 Registration No		: 25BAI11414
 Name of Student		: ANUSHKA SHARMA
-Branch            : B.Tech CS (AIML)
+Branch              : B.Tech CS (AIML)
 Course Name		    : DIGITAL LITERACY 
-Course Code			  : CSE0001
-School Name			  : SCAI
-Semester			    : WINTER 2025/26
-University        : VIT BHOPAL 
+Course Code			: CSE0001
+School Name			: SCAI
+Semester			: WINTER 2025/26
+University          : VIT BHOPAL 
 
 ======================================
 
@@ -95,17 +95,17 @@ Each folder contains the required files, screenshots, and documentation related 
 ## PROJECT REPORT
 The DIGITAL LITERACY REPORT.pdf file included in this repository contains the complete written documentation of my Digital Literacy Project. The report follows the course brief guidelines which require the following two main sections to be included.
 
-Introduction to Digital Literacy 
-Objectives of the Project 
-Detailed write-up for Task 1 to Task 5 
-Aim 
-Methodology / Tools Used 
-Description 
-Skills Learned 
-Difficulties Faced 
-Reflection (where applicable) 
-Conclusion with key outcomes from each task 
-References
+1.Introduction to Digital Literacy
+2.Objectives of the Project 
+3.Detailed write-up for Task 1 to Task 5 
+4.Aim 
+5.Methodology / Tools Used 
+6.Description 
+7.Skills Learned 
+8.Difficulties Faced 
+9.Reflection (where applicable) 
+10.Conclusion with key outcomes from each task 
+11.References
 
 The report documents both the practical work completed for each task and my personal reflections on what I learned throughout the project.
 
